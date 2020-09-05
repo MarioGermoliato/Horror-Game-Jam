@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
   speakerRight: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
-  lines: []
+  lines:
+  - character: {fileID: 0}
+    text: sadada
