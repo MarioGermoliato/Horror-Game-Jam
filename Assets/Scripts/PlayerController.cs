@@ -8,6 +8,9 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D playerRb;
     private Vector2 movement;
     private Animator playerAnimator;
+    public GameObject lightPlayer;
+    public GameObject cigarrete;
+    private bool lightOn = true;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +23,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         PlayerMovement();
+        OnOffLight();
         
     }
 
@@ -55,6 +59,16 @@ public class PlayerController : MonoBehaviour
 
         playerAnimator.SetInteger("HorizontalMov", (int)movement.x);
         playerAnimator.SetInteger("VerticalMov", (int)movement.y);
+    }
+
+    void OnOffLight()
+    {
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            lightOn = !lightOn;
+            lightPlayer.SetActive(lightOn);
+            cigarrete.SetActive(!lightOn);
+        }
     }
 
 }
