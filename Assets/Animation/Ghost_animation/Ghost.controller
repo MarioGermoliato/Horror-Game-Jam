@@ -68,9 +68,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2089666400495866336}
   m_Solo: 0
@@ -146,9 +143,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1719089489267535419}
   m_Solo: 0
@@ -176,9 +170,6 @@ AnimatorStateTransition:
     m_EventTreshold: 0
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Horizontal
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8810249065827013180}
@@ -323,9 +314,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2331724380616044911}
   m_Solo: 0
@@ -348,17 +336,11 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 3
-    m_ConditionEvent: 
-    m_EventTreshold: 0
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Horizontal
     m_EventTreshold: 0
   - m_ConditionMode: 6
     m_ConditionEvent: Ghost_Vertical
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8810249065827013180}
@@ -384,9 +366,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Vertical
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2331724380616044911}
@@ -470,9 +449,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8810249065827013180}
   m_Solo: 0
@@ -497,9 +473,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Vertical
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2331724380616044911}
@@ -554,9 +527,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1719089489267535419}
   m_Solo: 0
@@ -581,9 +551,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Horizontal
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2089666400495866336}
@@ -641,12 +608,6 @@ AnimatorController:
     m_Controller: {fileID: 0}
   - m_Name: Ghost_Vertical
     m_Type: 3
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: Distance
-    m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
@@ -906,9 +867,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Horizontal
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2089666400495866336}
   m_Solo: 0
@@ -933,9 +891,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Vertical
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1719089489267535419}
@@ -987,9 +942,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2331724380616044911}
   m_Solo: 0
@@ -1039,9 +991,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Horizontal
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8810249065827013180}
@@ -1098,9 +1047,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 4
     m_ConditionEvent: Ghost_Vertical
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1719089489267535419}
   m_Solo: 0
@@ -1128,9 +1074,6 @@ AnimatorStateTransition:
     m_EventTreshold: 0
   - m_ConditionMode: 6
     m_ConditionEvent: Ghost_Vertical
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: Distance
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 2089666400495866336}
