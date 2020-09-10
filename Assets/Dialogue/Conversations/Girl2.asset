@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8483b77818622954eb6bac54c689e8c2, type: 3}
+  m_Name: Girl2
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: He- he's gone...
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Err... hi...
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You're the girl from my dream.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "I\u2019m flattered but we don\u2019t have time for that."
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "That is not what I meant.\r.."
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "I know. I\u2019m just messing with you.\r"
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "Who are you exactly?\r"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I-I'm not sure...
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "What do you mean?\r"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "I don\u2019t know who I am anymore. "
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I... '
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I remember being born.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I remember a touch.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I remember new things but I forgot the old ones...
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I feel like I'm not supposed to be here.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: To be anywhere really.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What are you saying?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "Something happened here, something that wasn\u2019t supposed to..."
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: And it broke everything.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "Your friend couldn\u2019t understand it, most of us couldn\u2019t."
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'That''s why he- '
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: We broke.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It took something from me or perhaps gave me something.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "But I don\u2019t think I should be alive right now..."
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You mean you were supposed to be dead?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "No. I think I shouldn't have been born. \r"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: But I know for a fact that something is wrong with me, with us. I can feel
+      it.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "But you are different, aren\u2019t you?"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I feel the same thing coming from you. As if you mattered far more than
+      any of us.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'Like you do not belong.
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'I don''t understand what you mean.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I mean you also feel wrong.
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'Well, thank you very much.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'That''s not- You think I''m crazy, don''t you? I''m not.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I''m just so scared.
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I get it. I don't think you're crazy.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'Even if I don''t fully believe what you''re saying, something unnatural
+      is happening.
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'And I need to figure out what is it.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'The only way is forward, right?
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'Yeah.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I'll help!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Normally, I don't let civilians join my investigation.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'You must let me help! '
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I feel- I know that I can help and I can only do that if I stay with you!
+
+'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "If you\u2019re not broken, you somehow are not from here. That means you
+      can help."
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: But I can also help you. I know what to do, at least it's here somewhere...
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I just need to progress and my memories will come back! I'm sure of it!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'Fine, come with me. I might need the help.
+
+'
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'Thank you. I really didn''t want to be alone.
+
+'

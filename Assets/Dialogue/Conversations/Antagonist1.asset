@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8483b77818622954eb6bac54c689e8c2, type: 3}
+  m_Name: Antagonist1
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+  speakerRight: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "You\u2019re that outsider?"
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: No, sir. Born and raised here right here in Rio.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: That's one way to put it. To whom do I have the pleasure of speaking?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'Listen pal, we don''t have much time. I''m a detective, we''re in the
+      middle of an investigation. Would you mind answering some questions? '
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: That depends, are you willing to answer mine?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Yeah, yeah, sure. Let's get on with it. Who are you?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Michael. And you are?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Very well, Michael. Have you noticed anything strange around here?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I'm afraid I don't understand the question. Besides I've only been awake
+      for a couple of minutes.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Let me rephrase that. Have -you- felt strange lately.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Why, yes. Yes, I have.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Like what?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I'm not sure I understand it myself Detective...?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Empty is the best word I have for it.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Care to elaborate?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: No. I'm afraid I do not.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Please, sir. Your cooperation is important.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I'm well aware of that. But this conversation has been rather one-sided,
+      don't you think?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Well, it's an interrogation what did you expect?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Good one.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Nothing. If you need an answer, the best way I can describe is that I lost
+      purpose.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Purpose, huh?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What's was that purpose exactly?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I am-
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Was the murderer.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You're awfully quick to admit that.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: There's no point in hiding something that is not going to happen.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Who were you going to kill?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Her. Obviously. Right there, in that building with my associates.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What!?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Relax. As I said, it's not going to happen.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Why the change of heart?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "Every story needs an antagonist. It just how things are.\r"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "I can\u2019t say I feel happy or proud of my role... Before I couldn\u2019t
+      feel any of those things."
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You didn't answer my question.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: And you didn't answer mine.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What question?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: You've never told me your name.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Please, sir. We don't have time for this.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: It's quite straightforward, isn't it? Tell me your name.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Sir, stop wasting our time. Why did you decide not to kill her anymore?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: A name takes no time at all. Now refusing to give one does.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Sir-
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Just give me your name. It's that simple.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: You don't know it. Do you?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: ha... haha... HAHAHAHAHAHAha... Good detective! At last, we are on the
+      same page!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: A name. Such a simple thing. A natural thing.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: You couldn't possibly have forgotten it, could you? No
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: A name. Such a simple thing. A natural thing.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Whe you're born you're given a name and you carry it for the rest of your
+      life.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Even if you cast it aside you pick a new one and that word begins to define
+      you.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: You could have done that, couldn't you?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: But you didn't. You can't, can you?
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Perhaps... You never had a name? HAHAHAHAHA
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Enough.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: 'I said: ENOUGH!'
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: 'haha... My apologies, Detective. '
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Now you can understand how I feel.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "I was replaced. The story changed and the story was\u2026 everything. "
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "Now I have nothing.\r"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: 'I lost the story. I lost my role. '
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Nothing makes sense anymore and I am -aware- of that...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I'm aware of everything!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "And I can\u2019t do anything about it other than stand here and wait for
+      it to end. *sobs*\r"
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: We should go...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: WAIT!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I- I can't take it anymore. You have to help me!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: End it for me. You've got to...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Kill me. That's it! YES! KILL ME!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Let's go.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: KILL ME, PLEASE!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "No, you don\u2019t understand. You have no idea what it\u2019s like! \r"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Everything made sense. I had a goal and once that was complete I would
+      rest.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "But now everything hurts. I wasn\u2019t suppose to hurt. Not like this.\n"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "I want to disappear,like I was supposed to, and you can help! Please\u2026
+      Just kill me!\r"
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I've had enough of this. Let's go, girl.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "WAIT! Please don\u2019t go\u2026 I can\u2019t do anything!"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: Anything other than existing...
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: PLEASE! PLEASE! PLEASE!
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: "I don\u2019t wanna be- I\u2026"
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: I can end it myself.
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: HA HA HA HA
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: 'I CAN JUST KILL MYSELF! '
+  - character: {fileID: 11400000, guid: 404cdafe56c937e41b0ea820fd1848d7, type: 2}
+    text: hahahHAHAHAHAHAHAHAHAHAHAHAhahaha

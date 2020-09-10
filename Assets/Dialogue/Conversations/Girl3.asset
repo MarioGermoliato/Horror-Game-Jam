@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8483b77818622954eb6bac54c689e8c2, type: 3}
+  m_Name: Girl3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It...
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It's here.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It's watching!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What is it!?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Please, save me!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: From what!?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It that does not belong.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: It crawls and creeps and writhes ever forward!
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I heard them... The voices... The screams...
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: You alright?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: No. Not really.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: They were begging for help.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "What can I do?\r"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "I-I don\u2019t know. Something is in here. Something that does not belong. "
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I feel it growing and his influence growing too.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I saw the others... I saw myself... But I didn't see you.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: What do you mean?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: You somehow exist outside this place, don't you?
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I'm not sure I follow.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: You are not under its influence. At least, not in the same way as us.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: That means you're the only one who can find it.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I'll help in whatever way I can.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Me and the others...
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: They were confused. They didn't have control anymore. But -YOU- still do.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: ' That''s why you can find it.'
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: How do I find it?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: By doing what you do best, Detective. Investigating!
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: That I can do. Let's go.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Thank you. I feel so relieved!
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I- I feel...
