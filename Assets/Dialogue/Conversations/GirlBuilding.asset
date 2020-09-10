@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8483b77818622954eb6bac54c689e8c2, type: 3}
+  m_Name: GirlBuilding
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+  speakerRight: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: This is where I die.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Wait, what?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "Back when things made sense.\r.."
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: "Tell me all you remember.\r"
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I was kidnapped by that man, the one who killed himself, to be sacrificed.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: That's rather grim, are you sure about that?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Yes.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: 'I''m still getting used to it but I can hear their dreadful incantation. '
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: I feel the cold blade cutting my flesh.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: The sharp pain as it cut me open.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: And the absolute fear of that moment where they called for something.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: And it answered.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Somehow I feel like they didn't think it would.
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Then you would come and rescue me.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: I saved you?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: Yes.
+  - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
+    text: Weren't you supposed to die here?
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "No, I was wrong\u2026 "
+  - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
+    text: "Let\u2019s just get inside."
