@@ -33,7 +33,6 @@ public class GhostFollow : MonoBehaviour
         if (Vector2.Distance(transform.position, target.position) > distance){
             transform.position = Vector2.MoveTowards(transform.position, target.position, vel * Time.deltaTime);
 
-            ghostAnimator.SetBool("Distance", true);
             ghostAnimator.SetInteger("Ghost_Horizontal", (int)ghostMovement.x);
             ghostAnimator.SetInteger("Ghost_Vertical", (int)ghostMovement.y);
         }
