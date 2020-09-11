@@ -10,8 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d97d2faa6093aa140ac727a615f4746f, type: 3}
-  m_Name: PlayerCharDialogue
+  m_Name: JorgeChar
   m_EditorClassIdentifier: 
-  fullName: Detective
-  portrait: {fileID: -1136991196910562379, guid: bd7d5d18faa861a43aaa1aa06703d070,
-    type: 3}
+  fullName: Jorge
+  portrait: {fileID: 0}
