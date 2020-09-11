@@ -11,6 +11,10 @@ public class DoorInteractedWith : MonoBehaviour
     //public Animator anim;
 
     // Start is called before the first frame update
+    void Start(){
+        locked = true;
+    }
+
     public void Interact()
     {
         if(!isClicked){
@@ -18,10 +22,6 @@ public class DoorInteractedWith : MonoBehaviour
             //animator.SetBool("isActive", isClicked);
 
             if(this.tag == "Door"){
-                isClicked = true;
-                SceneManager.LoadScene(scene);
-            }
-            if(this.tag == "DoorLocked"){
                 if(!locked){
                     isClicked = true;
                     SceneManager.LoadScene(scene);
