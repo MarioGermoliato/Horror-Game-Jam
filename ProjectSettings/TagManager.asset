@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Npc
   - Door
+  - AutoEvent
   layers:
   - Default
   - TransparentFX

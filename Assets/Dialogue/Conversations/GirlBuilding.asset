@@ -52,6 +52,6 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: c1f83ee4951825140a55705b348a4dec, type: 2}
     text: Weren't you supposed to die here?
   - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
-    text: "No, I was wrong\u2026 "
+    text: No, I was wrong. Forget it.
   - character: {fileID: 11400000, guid: 5eb0c1de47e28c74c8a33de2e44d0feb, type: 2}
     text: "Let\u2019s just get inside."

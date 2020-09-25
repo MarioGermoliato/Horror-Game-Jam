@@ -29,4 +29,13 @@ public class UnlockDoor : MonoBehaviour
 
         }
     }
+
+    
+     void OnTriggerEnter2D(Collider2D col){
+         if(this.tag == "AutoEvent"){
+            dialogue.SetActive(true);
+            door.GetComponent<DoorInteractedWith>().locked = false;    
+
+         }
+     }
 }

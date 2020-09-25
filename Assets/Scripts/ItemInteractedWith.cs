@@ -19,11 +19,18 @@ public class ItemInteractedWith : MonoBehaviour
             if(this.tag == "Npc"){
                 dialogue.SetActive(true);
             }
+
             else{
 
             }
 
         }
     }
+
+     void OnTriggerEnter2D(Collider2D col){
+         if(this.tag == "AutoEvent"){
+             dialogue.SetActive(true);
+         }
+     }
 
 }
