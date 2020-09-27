@@ -27,7 +27,7 @@ public class DoorInteractedWith : MonoBehaviour
                     SceneManager.LoadScene(scene);
                 } 
                 else{
-                    
+                    //dialogue.SetActive(true);
                 }
             }
 
