@@ -34,6 +34,15 @@ public class GhostFollow : MonoBehaviour
             transform.position = Vector2.MoveTowards(transform.position, target.position, vel * Time.deltaTime);
 
             ghostAnimator.SetInteger("Ghost_Horizontal", (int)ghostMovement.x);
+
+            if (ghostMovement.x <= -0.5f)
+            {
+                transform.rotation = Quaternion.Euler(0, 180, 0);
+            }
+            else if (ghostMovement.x >= 0.5f)
+            {
+                transform.rotation = Quaternion.Euler(0, 0, 0);
+            }
             ghostAnimator.SetInteger("Ghost_Vertical", (int)ghostMovement.y);
         }
 
